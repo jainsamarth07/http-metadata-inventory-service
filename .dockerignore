@@ -1,0 +1,36 @@
+# Git
+.git
+.gitignore
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Docs & assets
+README.md
+*.pdf
+*.md
+
+# Environment
+.env.local
