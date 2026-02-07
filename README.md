@@ -64,7 +64,6 @@ Once running, interactive docs are available at:
 | UI | URL |
 |----|-----|
 | **Swagger UI** | http://localhost:8000/docs |
-| **ReDoc** | http://localhost:8000/redoc |
 
 ### Endpoints
 
